@@ -4,5 +4,5 @@
 * Problems is covered in Assignment-1 about Data types, basic probability, central tendency, histogram, boxplot, skewness, kurtosis, Normal distribution, Z & t-distribution, confidence interval topics.
 * Problems is covered in Set-1 about Descriptive Statistics and Probability topics.
 * Problems is covered in Set-2 about Normal distribution, Functions of Random Variables topics. 
-* Problems is covered in Set-3 about Confidence Intervals topics.
+* Problems is covered in Set-3 about Confidence Intervals topic.
 * Problems is covered in Set-4 about Sampling Distributions and Central Limit Theorem topics.
