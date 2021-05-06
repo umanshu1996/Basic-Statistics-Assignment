@@ -6,3 +6,4 @@
 * Problems is covered in Set-2 about Normal distribution, Functions of Random Variables topics. 
 * Problems is covered in Set-3 about Confidence Intervals topic.
 * Problems is covered in Set-4 about Sampling Distributions and Central Limit Theorem topics.
+* Problems is covered in Hypothesis_Testing_Assignment.pptx about Hypothesis topics(2 tail test, 2 sample test, ANOVA test, CHI-Square test)
